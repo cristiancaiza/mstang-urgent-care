@@ -659,14 +659,14 @@ button {
 
 /* header section - start codee  
 ==================================================================================================== */
-.default-header-section {
+.default-header-section { 
   z-index: 999;
   background-color: #ffffff;
   box-shadow: 0 2px 6px 1px rgba(0, 0, 0, 0.1);
 }
 .default-header-section .header-top {
   padding: 15px 0px;
-  background: linear-gradient(to bottom right, #fc0, #6c4d0b);  
+  background: blue /*linear-gradient(to bottom right, #fc0, #6c4d0b)*/;  
 }
 .default-header-section .header-top .basic-contact ul {
   margin: 0px;
