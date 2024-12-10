@@ -572,7 +572,7 @@ textarea:focus {
   width: 50px;
 }
 
-/* plus hover effect - end
+/* plus hover effect - end 
 ================================================== */
 /* custom colorz - start
 ================================================== */
@@ -657,7 +657,7 @@ button {
   padding-top: 164px;
 }
 
-/* header section - start
+/* header section - start codee  
 ==================================================================================================== */
 .default-header-section {
   z-index: 999;
@@ -666,7 +666,7 @@ button {
 }
 .default-header-section .header-top {
   padding: 15px 0px;
-  background: linear-gradient(to bottom right, #6f3f30, #6c4d0b);
+  background: linear-gradient(to bottom right, #fc0, #6c4d0b);  
 }
 .default-header-section .header-top .basic-contact ul {
   margin: 0px;
