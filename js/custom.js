@@ -696,7 +696,7 @@
       },
       marker: {
         latLng: [35.3919605,-97.7261687,88],
-        options: { icon: 'assets/images/map-mark.png' }
+        options: { icon: 'images/map-mark.png' }
       }
     });
   }
