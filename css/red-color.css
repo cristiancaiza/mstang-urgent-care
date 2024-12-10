@@ -1,0 +1,317 @@
+/* color area - start
+================================================== */
+.yellow-color,
+.default-header-section .header-bottom .menu-item-list > ul > li:hover a,
+.default-header-section .header-bottom .menu-item-list > ul > .active a,
+.default-header-section .header-bottom .menu-item-list > ul > .menu-item-has-children .sub-menu > li .active,
+.default-header-section .header-bottom .menu-item-list > ul > .menu-item-has-children .sub-menu > li .active:before,
+.default-header-section .header-bottom .menu-item-list > ul > .menu-item-has-children .sub-menu > li:hover > a,
+.default-header-section .header-bottom .menu-item-list > ul > .menu-item-has-children .sub-menu > li:hover > a:before,
+.default-header-section .header-bottom .menu-item-list > ul > .menu-item-has-children > .sub-menu > .menu-item-has-children > .sub-menu > li:hover a,
+.sticky-header-section .header-bottom .menu-item-list > ul > .menu-item-has-children .sub-menu > li .active,
+.sticky-header-section .header-bottom .menu-item-list > ul > .menu-item-has-children .sub-menu > li:hover > a,
+.sticky-header-section .header-bottom .menu-item-list > ul > .menu-item-has-children .sub-menu > .active > a,
+.sticky-header-section .header-bottom .menu-item-list > ul > .menu-item-has-children > .sub-menu > .menu-item-has-children > .sub-menu > li:hover a,
+.scrolltop-fixed-header-section .header-bottom .menu-item-list > ul > li:hover a,
+.scrolltop-fixed-header-section .header-bottom .menu-item-list > ul > .active a,
+.scrolltop-fixed-header-section .header-bottom .menu-item-list > ul > .menu-item-has-children .sub-menu > li .active,
+.scrolltop-fixed-header-section .header-bottom .menu-item-list > ul > .menu-item-has-children .sub-menu > li:hover > a,
+.scrolltop-fixed-header-section .header-bottom .menu-item-list > ul > .menu-item-has-children > .sub-menu > .menu-item-has-children > .sub-menu > li:hover a,
+.reglog-modal-wrapper .leftside-content .register-login-link ul li a:hover,
+.header-altranative .alt-menu-btn,
+.sidebar-menu-wrapper .sidebar .sidebar-form input:focus + label,
+.sidebar-menu-wrapper .sidebar .login-btn-group ul li a,
+.sidebar-menu-wrapper .sidebar .social-links .contact-info i,
+.sidebar-menu-wrapper .sidebar .social-links .contact-btn,
+.default-footer-section .footer-top .basic-info .basic-info-item .info-content h3,
+.default-footer-section .footer-top .about-wrapper .social-links ul li a:hover,
+.default-footer-section .footer-top .usefullinks-wrapper ul li:hover a,
+.default-footer-section .footer-top .usefullinks-wrapper ul li:hover a:before,
+.default-footer-section .footer-top .instagram-wrapper .followus-link a,
+.default-footer-section .footer-bottom .copyright-text .site-link,
+.default-footer-section .footer-bottom .footer-menu ul li a:hover,
+.footer-section2 .footer-top .about-wrapper .basic-info ul li i,
+.footer-section2 .footer-top .about-wrapper .social-links ul li a:hover,
+.footer-section2 .footer-top .usefullinks-wrapper ul li:hover a,
+.footer-section2 .footer-top .usefullinks-wrapper ul li:hover a:before,
+.footer-section2 .footer-top .instagram-wrapper .followus-link a,
+.footer-section2 .footer-bottom .copyright-text .site-link,
+.footer-section2 .footer-bottom .footer-menu ul li a:hover,
+.footer-section3 .footer-top .basic-info .basic-info-item .info-content h3,
+.footer-section3 .footer-top .about-wrapper .social-links ul li a:hover,
+.footer-section3 .footer-bottom .copyright-text .site-link,
+.footer-section3 .footer-bottom .footer-menu ul li a:hover,
+.map-section .address-wrapper .address-info-bottombar .address-info-right .map-larger-btn,
+.map-section .find-event-form .from-title .sub-title,
+.breadcrumb-section .breadcrumb-title .big-title strong,
+.breadcrumb-section .breadcrumb-list ul .breadcrumb-item .breadcrumb-link:hover,
+.sidebar-section .location-wrapper .location-info-list .area-name,
+.sidebar-section .location-wrapper .location-info-list ul li i,
+.sidebar-section .faq-wrapper .faq-accordion .card .card-header .btn:not(.collapsed),
+.sidebar-section .faq-wrapper .faq-accordion .card .card-header .btn:not(.collapsed):after,
+.sidebar-section .faq-wrapper .faq-accordion .card .card-header .btn:hover,
+.sidebar-section .faq-wrapper .faq-accordion .card .card-header .btn:hover:after,
+.main-carousel2 .item .reg-form .from-title .sub-title,
+.main-carousel2 .item .reg-form .submit-btn,
+.main-carousel2 .item .slider-content .bold-text,
+.testimonial5-section .item .client-info .client-name,
+.upcomming-event-section .upcomming-event-carousel .item .event-item .event-post-meta ul li .icon,
+.upcomming-event-section .owl-theme .owl-nav [class*=owl-]:hover:before,
+.conference-section .tab-wrapper .tab-menu .more-btn a:hover,
+.special-offer-section .special-offer-content h2 strong,
+.special-offer-section .event-makeing-btn .custom-btn,
+.event-section .event-tab-menu .nav li a:hover strong i,
+.event-section .event-tab-menu .nav li .active strong i,
+.event-section .tab-content .event-item .event-content .event-post-meta ul li .icon,
+.event-gallery-section .filters-button-group .button:hover i,
+.event-gallery-section .filters-button-group .button.is-checked i,
+.event-expertise-section .event-expertise-carousel .item:hover .expertise-title,
+.speaker-section .speaker-carousel .slider-for .item .speaker-content .speaker-info .speaker-social-network ul li a:hover,
+.advertisement-section .advertisement-content > .custom-btn,
+.partners-clients-section .clients-testimonial .section-title .sub-title,
+.partners-clients-section .clients-testimonial .client-info .client-name,
+.news-update-section .faq-accordion .card .card-header .btn:not(.collapsed):after,
+.news-update-section .faq-accordion .card .card-body > h3,
+.news-update-section .latest-blog-wrapper .latest-blog .blog-content .blog-title span,
+.event-advertisement-section .event-item .event-content .event-title .tag i,
+.event-advertisement-section .event-item .event-content .event-title .ticket-price,
+.event-advertisement-section .event-item .event-content .event-info ul li .icon,
+.event-advertisement-section .right-content-wrapper .booking-btn,
+.event-expertise-section2 .expertise-item:hover .expertise-content .link-btn,
+.absolute-eventmake-section .eventmaking-wrapper .eventmake-tabs li:hover a i,
+.absolute-eventmake-section .eventmaking-wrapper .eventmake-tabs li .active i,
+.absolute-eventmake-section .eventmaking-wrapper .tab-content .top-event-location ul li:hover strong,
+.upcomming-event-section2 .comming-event-item .event-content .event-title .tag i,
+.upcomming-event-section2 .comming-event-item .event-content .event-title .sub-title,
+.slide-section .booking-form-section .section-title .ticket-price,
+.slide-section .booking-form-section .booking-form ul li input:focus,
+.slide-section .booking-form-section .booking-form ul li select:focus,
+.slide-section .booking-form-section .booking-form ul li select,
+.upcomming-event-section3 .comming-event-item .event-content .event-title .tag i,
+.upcomming-event-section3 .comming-event-item .event-content .event-title .sub-title,
+.awesome-event-section .awesome-event-menu ul li:hover a i,
+.awesome-event-section .awesome-event-menu ul li .active i,
+.awesome-event-section .tab-content .image-wrapper .tag i,
+.awesome-event-section .tab-content .featured-event .event-content .event-title .ticket-price,
+.awesome-event-section .tab-content .awesome-event-item .event-content .event-title .ticket-price,
+.award-section .awaed-item-area .awaed-wrapper .awaed-item .awaed-content .awaed-title .awaed-date,
+.event-details-section .event-details .event-title .tag-item i,
+.event-details-section .event-pricing-plan .pricing-list ul .pricing-table .pricing-header .amount,
+.event-details-section .reviewer-comment-wrapper .comment-bar .comment-content .admin-name .rateing-star ul .rated,
+.event-details-section .reviewer-comment-wrapper .comment-bar .comment-content .meta-wrapper .btn-group-left ul li button:hover,
+.event-details-section .reviewer-comment-wrapper .comment-bar .comment-content .meta-wrapper .btn-group-right ul li button:hover,
+.event-details-section .comment-form .section-title .rateing-star-wrapper .rateing-star-form .form-check input[type=checkbox]:hover:before,
+.event-details-section .comment-form .section-title .rateing-star-wrapper .rateing-star-form .form-check input[type=checkbox]:checked:before,
+.service-section .service-wrapper .service-item .service-content .service-title .service-price,
+.service-section .service-wrapper .service-item .service-content .conference-btn,
+.faq-section .faq-content-wrapper .faq-accordion .card .card-header .btn:not(.collapsed):after,
+.faq-section .faq-content-wrapper .faq-accordion .card .card-body > h3,
+.booking-timeout-section .rightside-wrapper .clock-wrapper ul li small,
+.booking-section .booking-content-wrapper .order-summary-table .table thead tr th {
+	color: #ec008c!important;
+}
+.special-offer-section .event-makeing-btn .custom-btn {color: #ffffff !important;}
+/* color area - end
+================================================== */
+
+
+
+/* bg-color area - start
+================================================== */
+.form-wrapper .form-item .form-item-btn:before,
+.form-wrapper .form-item .form-item-btn:after,
+.pagination ul .page-item.active .page-link:after,
+.custom-btn,.section-title .line-style,.bg-yellow,
+.default-header-section .header-bottom .menu-item-list > ul > li:before,
+.default-header-section .header-bottom .menu-item-list > ul > .menu-item-has-children > .sub-menu > .menu-item-has-children > .sub-menu > li:hover a:before,
+.default-header-section .header-bottom .user-search-btn-group ul li:hover > button,
+.sticky-header-section .header-bottom .user-search-btn-group ul li:hover > a,
+.sticky-header-section .header-bottom .user-search-btn-group ul li:hover > button,
+.scrolltop-fixed-header-section .header-bottom .user-search-btn-group ul li:hover > a,
+.scrolltop-fixed-header-section .header-bottom .user-search-btn-group ul li:hover > button,
+.reglog-modal-wrapper .rightside-content .login-form .login-btn,
+.register-modal .rightside-content .human-verification label:after,
+.search-body .search-form .search-close,
+.sidebar-menu-wrapper .sidebar .menu-link-list ul li a .icon,
+.sidebar-menu-wrapper .sidebar .social-links ul li:hover a,
+.sidebar-menu-wrapper .sidebar .social-links .contact-btn:hover,
+.map-section .address-wrapper .address-info-bottombar .address-info-right .map-larger-btn:hover,
+.sidebar-section .location-wrapper .title-wrapper .icon,
+.sidebar-section .location-wrapper .contact-links ul li a .icon,
+.slide-section .main-carousel1 .item .slider-item-content .link-groups .start-btn:hover,
+.slide-section .owl-theme .owl-dots .owl-dot:after,
+.main-carousel2 .item .slider-content .details-btn:hover,
+.testimonial5-section .owl-theme .owl-dots .owl-dot.active span,
+.testimonial5-section .owl-theme .owl-dots .owl-dot:hover span,
+.upcomming-event-section .upcomming-event-carousel .item .event-item .event-content .event-title:before,
+.special-offer-section .event-makeing-btn .custom-btn:hover,
+.event-section .event-tab-menu .nav li a:before,
+.event-section .tab-content .event-item .event-content .event-title:after,
+.event-gallery-section .filters-button-group .button:after,
+.advertisement-section .advertisement-content > .custom-btn:hover,
+.event-advertisement-section .right-content-wrapper .booking-btn:hover,
+.event-section .tab-content .event-item2 .event-content .event-title:after,
+.event-section .tab-content .event-item2 .event-content .event-post-meta ul li .icon,
+.homepage3 .event-expertise-section .link-btn a:hover,
+.upcomming-event-section2 .comming-event-item .event-content .event-info-list ul li .icon,
+.upcomming-event-section2 .comming-event-item .event-content .details-btn:hover,
+.upcomming-event-section3 .comming-event-item .event-content .event-info-list ul li .icon,
+.upcomming-event-section3 .comming-event-item .event-content .details-btn:hover,
+.awesome-event-section .tab-content .featured-event .event-content .event-title:before,
+.awesome-event-section .tab-content .featured-event .event-content .event-post-meta ul li .icon,
+.our-management-section .management-item .item-title .title-text:after,
+.award-section .awaed-item-area .awaed-wrapper .awaed-item .awaed-content .awaed-title .awaed-date:before,
+.event-section .event-list-item .event-content .event-title:after,
+.event-section .event-list-item .event-content .event-info-list ul li .icon,
+.event-section .event-grid-item .event-content .event-title:after,
+.event-section .event-grid-item .event-content .event-post-meta ul li .icon,
+.event-details-section .event-details .event-info-list ul li .icon,
+.event-details-section .event-schedule .schedule-date-menu > li > .active,
+.event-details-section .event-schedule .tab-content .hotal-menu > li > .active,
+.event-details-section .event-schedule .tab-content .tab-content .tab-pane .hall-item .hall-content .event-info-list ul li .icon,
+.service-section .service-wrapper .service-item .service-content .service-type-list ul li .icon,
+.service-section .service-wrapper .service-item .service-content .conference-btn:hover {
+	background: #ec008c!important;
+}
+/* bg-color area - end
+================================================== */
+
+
+
+/* border-color area - start
+================================================== */
+.form-wrapper .form-item input:focus,textarea:focus,
+.sticky-header-section .header-bottom .user-search-btn-group ul li > a,
+.sticky-header-section .header-bottom .user-search-btn-group ul li > button,
+.scrolltop-fixed-header-section .header-bottom .user-search-btn-group ul li > a,
+.scrolltop-fixed-header-section .header-bottom .user-search-btn-group ul li > button,
+.register-modal .rightside-content .human-verification input:before,
+.search-body .search-form .search-input:focus,.sidebar-menu-wrapper .sidebar .sidebar-form input:focus,
+.map-section .find-event-form .form-wrapper .form-item select:focus,
+.slide-section .main-carousel1 .item .slider-item-content .link-groups .start-btn,
+.main-carousel2 .item .reg-form .form-wrapper .form-item input:focus,
+.main-carousel2 .item .reg-form .form-wrapper .form-item select:focus,
+.main-carousel2 .item .slider-content .details-btn,
+.event-section .tab-content .event-item:hover,
+.event-expertise-section2 .expertise-item:hover,
+.event-section .tab-content .event-item2:hover,
+.homepage3 .event-expertise-section .link-btn a,
+.absolute-eventmake-section .eventmaking-wrapper .tab-content .tab-pane ul li input:focus,
+.absolute-eventmake-section .eventmaking-wrapper .tab-content .tab-pane ul li select:focus,
+.upcomming-event-section2 .comming-event-item .event-content .details-btn,
+.upcomming-event-section3 .comming-event-item .event-content .details-btn,
+.event-section .event-list-item:hover,
+.event-section .event-grid-item:hover,
+.event-details-section .reviewer-comment-wrapper .comment-bar .comment-content .meta-wrapper .btn-group-right ul li button:hover,
+.service-section .service-wrapper .service-item .service-content .conference-btn,
+.booking-section .booking-content-wrapper .reg-info .form-wrapper .form-item .cradit-card-select:focus,
+.booking-section .booking-content-wrapper .reg-info .form-wrapper .expired-date-form ul li select:focus,
+.booking-section .booking-content-wrapper .billing-form .form-item select:focus {
+	border-color: #ec008c!important;
+}
+/* border-color area - end
+================================================== */
+
+
+
+/* border-left-color area - start
+================================================== */
+.reglog-modal-wrapper .popup-modal-dismiss:before,
+.news-update-section .faq-accordion .card .card-header .btn:not(.collapsed),
+.news-update-section .faq-accordion .card .card-body,
+.faq-section .faq-content-wrapper .faq-accordion .card .card-header .btn:not(.collapsed),
+.faq-section .faq-content-wrapper .faq-accordion .card .card-body {
+	border-left-color: #ec008c!important;
+}
+/* border-left-color area - end
+================================================== */
+
+
+
+/* gradient coloe area - start
+================================================== */
+.testimonial5-section .item .quote-icon,
+.about-section .about-item-wrapper ul li .about-item .icon,
+.homepage3 .testimonial5-section .item .quote-icon,
+.about-section2 .services-list ul li a .icon,
+.our-management-section .management-service-carousel .item a .icon,
+.service-section .service-wrapper > ul > li a .icon {
+	color: linear-gradient(to bottom right, #ec008c, #fc6767)!important;
+}
+/* gradient coloe area - end
+================================================== */
+
+
+
+/* gradient bg area - start
+================================================== */
+.default-header-section .header-top,
+.sticky-header-section .header-bottom .menu-item-list > ul > li > a:before,
+.reglog-modal-wrapper .rightside-content,
+.map-section .address-wrapper,
+.testimonial5-section .item .quote-icon i,
+.default-sponsor-section ul li a:before,
+.absolute-sponsor-section ul li a:before,
+.upcomming-event-section .upcomming-event-carousel .item .event-item .event-image .post-date,
+.about-section .about-item-wrapper ul li .about-item:before,
+.tab-nav::-webkit-scrollbar-thumb,
+.event-section .tab-content .event-item .event-image .post-date,
+.partners-clients-section .partners-wrapper .partners-carousel .item ul li a:before,
+.event-section .tab-content .event-item2 .event-image .post-date,
+.homepage3 .testimonial5-section .item .quote-icon i,
+.about-section2 .services-list ul li a:before,
+.about-section2 .services-list ul li a .icon i,
+.our-management-section .management-service-carousel .item a:before,
+.our-management-section .management-service-carousel .item a .icon i,
+.our-management-section .owl-theme .owl-dots button:hover span,
+.our-management-section .owl-theme .owl-dots .active span,
+.awesome-event-section .tab-content .image-wrapper .post-date,
+.service-section .service-wrapper > ul > li a .icon i,
+.service-section .service-wrapper > ul > li a:before,
+.event-section .event-list-item .event-image .post-date,
+.event-section .event-grid-item .event-image .post-date,
+.event-details-section .register-wrapper .register-table ul .rt-header,
+.booking-section .booking-content-wrapper .order-summary-table .table .tfooter {
+	background: -webkit-linear-gradient(to right, #ec008c, #fc6767)!important;
+	background: linear-gradient(to right, #ec008c, #fc6767)!important;
+}
+.about-section .about-item-wrapper ul li .about-item .icon i {
+    background: -webkit-linear-gradient(to right, #ec008c, #fc6767)!important;
+	background: linear-gradient(to right, #ec008c, #fc6767)!important;
+    -webkit-background-clip: text!important;
+    -webkit-text-fill-color: transparent!important;
+}
+.about-section .about-item-wrapper ul li:hover .about-item .icon i {
+    background: transparent!important;
+    -webkit-background-clip: text!important;
+    -webkit-text-fill-color: #ffffff!important;
+}
+.custom-btn:before,
+.backtotop .scroll:before {
+	color: #ffffff!important;
+	background: -webkit-linear-gradient(to right, #ec008c, #fc6767)!important;
+	background: linear-gradient(to right, #ec008c, #fc6767)!important;
+}
+.custom-btn:hover:after,
+.backtotop .scroll:hover:after {
+	color: #ffffff!important;
+	background: -webkit-linear-gradient(to right, #fc6767, #ec008c)!important;
+	background: linear-gradient(to right, #fc6767, #ec008c)!important;
+}
+/* gradient bg area - end
+================================================== */
+
+
+
+/* gradient overlay area - start
+================================================== */
+.plus-effect,
+.default-footer-section .footer-top .instagram-wrapper ul li a,
+.footer-section2 .footer-top .instagram-wrapper ul li a,
+.speaker-section .speaker-carousel .slider-nav .item .item-content:before {
+	background: -webkit-linear-gradient(top left, rgba(235, 0, 141, 0.8), rgba(252, 105, 105, 0.8))!important;
+	background: -o-linear-gradient(top left, rgba(235, 0, 141, 0.8), rgba(252, 105, 105, 0.8))!important;
+	background: linear-gradient(to bottom right, rgba(235, 0, 141, 0.8), rgba(252, 105, 105, 0.8))!important;
+}
+/* gradient overlay area - end
+================================================== */
