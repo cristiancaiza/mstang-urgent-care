@@ -508,11 +508,11 @@ textarea:focus {
   transition: all 0.3s ease-in-out;
 }
 .backtotop .scroll:before {
-  background: linear-gradient(to bottom right, #ff3e00, #ffbe30);
+  background: linear-gradient(to bottom right, #173F7F, #13C9F2);
 }
 .backtotop .scroll:after {
   opacity: 0;
-  background: linear-gradient(to bottom right, #ffbe30, #ff3e00);
+  background: linear-gradient(to bottom right, #173F7F, #13C9F2);
 }
 .backtotop .scroll:hover:before {
   opacity: 0;
@@ -547,7 +547,7 @@ textarea:focus {
   bottom: 0;
   opacity: 0;
   position: absolute;
-  background: linear-gradient(to bottom right, rgba(255, 62, 0, 0.8), rgba(255, 190, 48, 0.8));
+  background: linear-gradient(to bottom right, rgba(23, 63, 127, 0.8), rgba(19, 201, 242, 0.8));
 }
 .plus-effect:before, .plus-effect:after {
   top: 50%;
@@ -3710,7 +3710,7 @@ button {
 }
 .special-offer-section .event-makeing-btn .custom-btn {
   background: #ffffff;
-  color: #ffbe30 !important;
+  color: #173F7F !important;
 }
 .special-offer-section .event-makeing-btn .custom-btn:before {
   opacity: 0;
@@ -4051,6 +4051,7 @@ button {
 .event-expertise-section .event-expertise-carousel .item .expertise-item .content p {
   margin: 0;
   font-size: 14px;
+  color: #052352;
 }
 .event-expertise-section .event-expertise-carousel .item:hover .expertise-title {
   color: #ffbe30;
@@ -4959,11 +4960,11 @@ button {
   border-radius: 30px;
   font-size: 14px;
   text-transform: uppercase;
-  border: 3px solid #ffbe30;
+  border: 3px solid #173F7F;
 }
 .homepage3 .event-expertise-section .link-btn a:hover {
   color: #ffffff;
-  background-color: #ffbe30;
+  background-color: #13C9F2;
 }
 .homepage3 .default-sponsor-section {
   background-size: cover;
