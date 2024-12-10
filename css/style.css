@@ -420,7 +420,7 @@ textarea:focus {
   width: 70px;
   height: 3px;
   position: absolute;
-  background-color: #ffbe30;
+  background-color: #173F7F;
 }
 .section-title .sub-title {
   margin-bottom: 15px;
@@ -5149,6 +5149,7 @@ button {
   border-left: 1px solid #f0f0f0;
 }
 .about-section2 .services-list ul li {
+  height: 191px;
   float: left;
   width: 33.333%;
   list-style: none;
@@ -5174,7 +5175,7 @@ button {
   z-index: -1;
   content: "";
   position: absolute;
-  background: linear-gradient(to bottom right, #ff3e00, #ffbe30);
+  background: linear-gradient(to bottom right, #173F7F, #13C9F2);
   transition: all 0.3s ease-in-out;
 }
 .about-section2 .services-list ul li a .icon {
@@ -5196,7 +5197,7 @@ button {
 .about-section2 .services-list ul li a .icon i {
   font-size: 48px;
   line-height: 66px;
-  background: linear-gradient(to bottom right, #ff3e00, #ffbe30);
+  background: linear-gradient(to bottom right, #173F7F, #13C9F2);
   -webkit-background-clip: text;
   transition: all 0.3s ease-in-out;
   -webkit-text-fill-color: transparent;
@@ -5242,6 +5243,8 @@ button {
   transition: all 0.3s ease-in-out;
 }
 .about-section2 .services-list ul li a .sub-title {
+  margin-top: 10px;
+  width: 180px;
   font-weight: 700;
   color: #878787;
   text-transform: capitalize;
