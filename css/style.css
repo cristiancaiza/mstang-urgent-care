@@ -756,19 +756,19 @@ button {
   bottom: -40px;
   position: absolute;
   transform: scale(0.3);
-  background-color: #ffbe30;
+  background-color: #8A0022;
   transition: all 0.3s ease-in-out;
 }
 .default-header-section .header-bottom .menu-item-list > ul > li > a {
   font-weight: 700;
   padding: 5px 15px;
   text-align: center;
-  color: #333333;
+  color: #173F7F;
   font-size: 16px;
   text-transform: uppercase;
 }
 .default-header-section .header-bottom .menu-item-list > ul > li:hover a {
-  color: #ffbe30;
+  color: #8A0022;
 }
 .default-header-section .header-bottom .menu-item-list > ul > li:hover:before {
   opacity: 1;
@@ -776,7 +776,7 @@ button {
   transform: scale(1);
 }
 .default-header-section .header-bottom .menu-item-list > ul > .active a {
-  color: #ffbe30;
+  color: #8A0022;
 }
 .default-header-section .header-bottom .menu-item-list > ul > .active:before {
   opacity: 1;
