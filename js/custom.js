@@ -595,8 +595,8 @@
   function init_gmap() {
     if ( typeof google == 'undefined' ) return;
     var options = {
-      zoom: 14,
-      center: [40.725062,-74.0012177],
+      zoom: 18.5,
+      center: [35.3919605,-97.7261687,88],
       styles: [
       {elementType: 'geometry', stylers: [{color: '#e0dad2'}]},
       {elementType: 'labels.text.stroke', stylers: [{color: '#ffffff'}]},
@@ -695,7 +695,7 @@
         options: options
       },
       marker: {
-        latLng: [40.725062,-74.0012177],
+        latLng: [35.3919605,-97.7261687,88],
         options: { icon: 'assets/images/map-mark.png' }
       }
     });
@@ -703,6 +703,19 @@
   init_gmap();
   // google map - end
   // --------------------------------------------------
+
+
+
+
+// expand google map
+
+// Selecciona el botón por su ID
+document.getElementById("viewMapButton").addEventListener("click", function () {
+  // Define la URL de Google Maps con las coordenadas o la dirección
+  const googleMapsUrl = "https://www.google.com/maps?q=35.3924279,-97.7262695&z=12"; // Cambia las coordenadas o dirección
+  // Redirige al usuario a la URL
+  window.open(googleMapsUrl, "_blank"); // "_blank" abre en una nueva pestaña
+});
 
 
 
