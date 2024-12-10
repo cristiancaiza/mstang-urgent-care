@@ -30,7 +30,7 @@ body {
   padding: 0;
   word-spacing: 2px;
   letter-spacing: 0.6px;
-  color: #878787;
+  color: #fff;
   font-size: 16px;
   background-color: #ffffff;
   -webkit-font-smoothing: antialiased;
@@ -574,6 +574,11 @@ textarea:focus {
 ================================================== */
 .default-color {
   color: #878787;
+}
+
+
+.blue-color{
+  color: #173F7F; 
 }
 
 .yellow-color {
@@ -3027,7 +3032,7 @@ button {
 }
 .testimonial5-section .item .client-info .client-name {
   font-weight: 800;
-  color: #ffbe30;
+  color: #13C9F2;
   font-size: 24px;
 }
 .testimonial5-section .owl-theme .owl-nav .owl-next,
@@ -3085,7 +3090,7 @@ button {
 }
 .testimonial5-section .owl-theme .owl-dots .owl-dot.active span,
 .testimonial5-section .owl-theme .owl-dots .owl-dot:hover span {
-  background: #ffbe30;
+  background: #50F2E2;
 }
 
 /* testimonial section - end
@@ -4195,7 +4200,7 @@ button {
   z-index: -1;
   content: "";
   position: absolute;
-  background: linear-gradient(to bottom right, #ff3e00, #ffbe30);
+  background: linear-gradient(to bottom right, #173F7F, #13C9F2);
   transition: all 0.3s ease-in-out;
 }
 .speaker-section .speaker-carousel .slider-nav .item .item-content .speaker-thumbnail {
@@ -4897,7 +4902,7 @@ button {
 .homepage3 .testimonial5-section .item .quote-icon i {
   font-size: 48px;
   line-height: 66px;
-  background: linear-gradient(to bottom right, #ff3e00, #ffbe30);
+  background: linear-gradient(to bottom right, #173F7F, #13C9F2);
   -webkit-background-clip: text;
   transition: all 0.3s ease-in-out;
   -webkit-text-fill-color: transparent;
