@@ -817,7 +817,7 @@ button {
   display: block;
   text-align: left;
   font-size: 14px;
-  background-color: #333333;
+  background-color: #173F7F;
   border-bottom: 1px solid rgba(255, 255, 255, 0.5);
 }
 .default-header-section .header-bottom .menu-item-list > ul > .menu-item-has-children .sub-menu > li:last-child {
@@ -847,16 +847,16 @@ button {
   font-family: "Font Awesome 5 Free";
 }
 .default-header-section .header-bottom .menu-item-list > ul > .menu-item-has-children .sub-menu > li .active {
-  color: #ffbe30;
+  color: #13C9F2;
 }
 .default-header-section .header-bottom .menu-item-list > ul > .menu-item-has-children .sub-menu > li .active:before {
-  color: #ffbe30;
+  color: #13C9F2;
 }
 .default-header-section .header-bottom .menu-item-list > ul > .menu-item-has-children .sub-menu > li:hover > a {
-  color: #ffbe30;
+  color: #13C9F2;
 }
 .default-header-section .header-bottom .menu-item-list > ul > .menu-item-has-children .sub-menu > li:hover > a:before {
-  color: #ffbe30;
+  color: #13C9F2;
 }
 .default-header-section .header-bottom .menu-item-list > ul > .menu-item-has-children:hover .sub-menu {
   opacity: 1;
